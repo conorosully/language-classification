@@ -1,11 +1,9 @@
 # language-classification
-Predicting the language of a piece of text using an Artificial Neural Network (ANN) and character N-grams.
+Predicting the language of a piece of text using an Artificial Neural Network (ANN) and character N-grams. This code was used in one of my MSc projects. 
 
-<br>
-This code was used in one of my MSc projects. 
+Project report: <a href="https://github.com/conorosully/language-classification/blob/master/final_research_paper.pdf">final_research_paper.pdf</a>
 
-Project: <a href="https://github.com/conorosully/language-classification/blob/master/final_research_paper.pdf">final_research_paper.pdf</a>
-Code Demonstation: 
+Code demonstation: <a href="">0_demo</a>
 
 
 <table class="tg">
