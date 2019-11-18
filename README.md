@@ -3,7 +3,7 @@ Predicting the language of a piece of text using an Artificial Neural Network (A
 
 Project report: <a href="https://github.com/conorosully/language-classification/blob/master/final_research_paper.pdf">final_research_paper.pdf</a>
 
-Code demonstation: <a href="">0_demo</a>
+Code demonstation: <a href="https://github.com/conorosully/language-classification/blob/master/src/0_demo.ipynb">0_demo</a>
 
 
 <table class="tg">
